@@ -8,8 +8,8 @@
 --- | --- | --- | ---
 Whooves | Тестовый бот для новых фич с парой уникальных функций | [MegaVasiliy007/whooves](https://github.com/MegaVasiliy007/whooves) | [discord.com/oauth2...](https://discord.com/oauth2/authorize?client_id=531094088695414804&scope=bot+applications.commands&permissions=435547222)
 Nika | Защита от спама с общей базой нарушителей | [MegaVasiliy007/nika](https://github.com/MegaVasiliy007/nika) | [discord.com/oauth2...](https://discord.com/oauth2/authorize?client_id=543858333585506315&scope=bot+applications.commands&permissions=8)
-Tescall | «Поддержка Vare» – поддержка через ЛС и создание тикетов с использованием тредов | [vare-team/tescall](https://github.com/vare-team/tescall) | `оффлайн`
-Metric | Когда-то считал и выводил графики | [vare-team/metric](https://github.com/vare-team/metric) | `оффлайн`
+Tescall | «Поддержка Vare» – поддержка через ЛС и создание тикетов с использованием тредов | [vare-team/tescall](https://github.com/vare-team/tescall) | [`Непубличный`](https://discord.com/invite/8KKVhTU)
+Metric | Когда-то считал и выводил графики | [vare-team/metric](https://github.com/vare-team/metric) | `Оффлайн`
 
 ### Так же был опыт разработки простенького П.О.:
 
