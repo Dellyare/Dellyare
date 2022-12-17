@@ -1,8 +1,15 @@
 ## Shalom, Anon!
 
-Я разработчик «[Vare](https://github.com/vare-team)» и администратор сообщества «[VARE Community](https://discord.com/invite/8KKVhTU)».
+Я Frontend разработчик «[Vare](https://github.com/vare-team)» и администратор сообщества «[VARE Community](https://discord.com/invite/8KKVhTU)».
 
-### Мои руки причастны к написанию этих Discord ботов
+### Написал эти темы для Steam Deck'a
+
+Название | Описание
+--- | ---
+[DellyBoard](https://github.com/Dellyare/DellyThemes/tree/main/DellyBoard) | Тема для дефолтной клавиатуры в стиле Apple
+[DellyFooter](https://github.com/Dellyare/DellyThemes/tree/main/DellyFooter) | Тема для футера с кастомизацией и эффектами
+
+### Создал этих Discord ботов
 
 Бот | Описание | Репозиторий | Приглашение
 --- | --- | --- | ---
@@ -18,7 +25,7 @@ Metric | Когда-то считал и выводил графики | [vare-t
 --- | --- | ---
 VKMagic | Взаимодействие с API Вконтакте и UI на Electron | [MegaVasiliy007/VkMagic](https://github.com/MegaVasiliy007/VkMagic)
 ---
+> TON Кошелёк - [back2future.ton](https://tonapi.io/account/back2future.ton)
+
 > Связь со мной через: Telegram - [**@dellyare**](https://t.me/dellyare), Discord - **Dellyare#0720**, Discord GUILD - [**VARE Community**](https://discord.com/invite/8KKVhTU)  
 > А ещё в [@tryopper](https://t.me/tryopper) ведётся маленький девбложик 😉
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R16CYBZ)
