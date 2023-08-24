@@ -1,12 +1,12 @@
 ## Привет!
 
-Меня зовут Максим и я Front-end разработчик, специализирующийся на фреймворке [Vue.js](https://vuejs.org) уже более 3-х лет.
+Меня зовут Максим, и я Front-end разработчик, специализирующийся на фреймворке [Vue.js](https://vuejs.org) уже более 3-х лет.
 
 Иногда пишу и Back-end части для приложений, знаком с NodeJs.
 
 Со-основатель «[Vare](https://github.com/vare-team)» и сообщества «[VARE Community](https://discord.com/invite/8KKVhTU)», однако в данный момент не принимаю участия в разработке этих проектов.
 
-В свободное занимаюсь генерацией изображений при помощи [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
+В свободное время занимаюсь генерацией изображений при помощи [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
 Связь со мной через Telegram - [**@dellyare**](https://t.me/dellyare)
 
